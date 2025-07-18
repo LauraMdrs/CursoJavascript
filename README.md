@@ -1,1 +1,1 @@
-# CursoJS
+# Curso JavaScript - Básico ao Avançado 
